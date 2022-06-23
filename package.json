@@ -1,0 +1,23 @@
+{
+    "name": "new-project-name",
+    "version": "0.0.1",
+    "description": "Generic description of a stupendous new project",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest --coverage true --detectOpenHandles",
+      "lint": "./node_modules/.bin/eslint --fix"
+    },
+    "author": "Sean T Taylor",
+    "license": "ISC",
+    "dependencies": {
+
+    },
+    "devDependencies": {
+      "@babel/preset-env": "^7.18.2",
+      "babel-jest": "^28.1.0",
+      "eslint": "^8.16.0",
+      "jest": "^28.1.0"
+    }
+}

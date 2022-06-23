@@ -1,0 +1,1 @@
+console.log('new-project-name', 'v0.0.1');

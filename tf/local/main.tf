@@ -1,0 +1,1 @@
+# The terraform located in this folder is for executing infrastructure commands against Localstack; IT WILL NOT RUN AGAINST AWS INFRASTRUCTURE
